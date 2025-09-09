@@ -1,8 +1,8 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #8adbbd;
+    --color-secondary: #b9e7f3;
     --color-tertiary: #C4C4C4;
-    --color-button: #4b2bfe;
+    --color-button: #08cf86;
     --color-button-hover: #02a1fd;
     --color-text: #2c2c2c;
     --color-white: #FFFFFF;
@@ -58,14 +58,14 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
-    color: var(--color-white);
+    color: black;
 }
 
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: black;
     margin: 10px 0;
     text-align: center;
 }
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #344948;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
